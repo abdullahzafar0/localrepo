@@ -1,2 +1,1 @@
-# * k enter ls -a on the terminal, then .git folder won’t appear which signifies that it isn’t a git repository), to make it one, we have to enter the command (git init), then ls -a shows a folder named .git into it.
-# * Now to upload this project from VS code to github, we have to make a new repo on GitHub then we’ll use the following command on the terminal of VS code and pasting the link of the GitHub r
+# this is feature1 branch
