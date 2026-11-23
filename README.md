@@ -1,7 +1,2 @@
-# k-Air LocalRepo % git push
-Enumerating objects: 4, done.
-Counting objects: 100% (4/4), done.
-Delta compression using up to 10 threads
-Compressing objects: 100% (2/2), done.
-Writing objects: 100% (3/3), 328 bytes | 328.00 KiB/s, done.
-Total 3 (delta 0), reused 0 (delta
+# * k enter ls -a on the terminal, then .git folder won’t appear which signifies that it isn’t a git repository), to make it one, we have to enter the command (git init), then ls -a shows a folder named .git into it.
+# * Now to upload this project from VS code to github, we have to make a new repo on GitHub then we’ll use the following command on the terminal of VS code and pasting the link of the GitHub r
